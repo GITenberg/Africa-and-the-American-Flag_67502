@@ -1,0 +1,32 @@
+_repo: Africa-and-the-American-Flag_67502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Foote, Andrew H. (Andrew Hull)
+    aliases:
+    - Foote, A. H. (Andrew Hull)
+    - Foote, Andrew Hull
+    birthdate: 1806
+    deathdate: 1863
+    gutenberg_agent_id: '53882'
+    url: http://www.gutenberg.org/2009/agents/53882
+    wikipedia: https://en.wikipedia.org/wiki/Andrew_Hull_Foote
+description: ''
+gutenberg_issued: '2022-02-26'
+identifiers:
+  gutenberg: '67502'
+language: en
+pgterms:marc904: https://archive.org/details/africaamericanfl00foot
+pgterms:marc905: 20200626091523foote
+pgterms:marc906: '1854'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :D. Appleton & Co,1854.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Africa and the American Flag
+url: http://www.gutenberg.org/ebooks/67502
