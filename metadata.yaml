@@ -1,5 +1,8 @@
 _repo: Africa-and-the-American-Flag_67502
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67502-h/images/cover.jpg
 creator:
   author:
     agent_name: Foote, Andrew H. (Andrew Hull)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53882
     wikipedia: https://en.wikipedia.org/wiki/Andrew_Hull_Foote
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67502#Africa-and-the-American-Flag
 gutenberg_issued: '2022-02-26'
 identifiers:
   gutenberg: '67502'
